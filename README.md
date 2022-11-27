@@ -1,5 +1,4 @@
 # 16-mess
-The Full MESS
 
 Click the link below to check out the video!
 
