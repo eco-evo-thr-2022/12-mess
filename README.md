@@ -1,6 +1,5 @@
-# 16-mess
-The Full MESS + Likelihood-free Inference
+# The Full MESS + Likelihood-free Inference
 
 Click the link below to check out the video!
 
-[![](Full-MESS-ML-Inference.png)](https://drive.google.com/file/d/1-OSjvCL66iyiQ9_XHQ-oUKzyR68aK8jr/view?usp=share_link)
+[![](Full-MESS-ML-Inference.png)](https://www.youtube.com/watch?v=M_5RZfWwUNQ&ab)
